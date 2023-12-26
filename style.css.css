@@ -1,0 +1,14 @@
+/*Selector {
+	property: value;
+}*/
+/*css means cascating style sheet*/
+h2 {
+	color: red;
+}
+p
+{
+	color: blue;
+}
+p{
+	color: green;
+}
